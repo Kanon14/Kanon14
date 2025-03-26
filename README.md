@@ -5,7 +5,7 @@ Hi! I am **Kanon**, passionate in Computer Vision, Natural Language Processing, 
 
 🔍 Research Areas: Data Sciences, Data Visualization, Deep Learning, YOLO Object Detection, Vision-Language Models
 
-🚀 Projects: E-Waste Classification, RAG Frameworks
+🚀 Projects: E-Waste Classification, RAG Frameworks, Renewable Energy Dashboard
 
 
 ## 🌐 Socials:
