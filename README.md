@@ -5,7 +5,9 @@ Hi! I am **Kanon**, passionate in Computer Vision, Natural Language Processing, 
 
 🔍 Research Areas: Data Sciences, Data Visualization, Deep Learning, YOLO Object Detection, Vision-Language Models
 
-🚀 Projects: E-Waste Classification, RAG Frameworks, Renewable Energy Dashboard
+🚀 Projects: E-Waste Classification, RAG Frameworks, Renewable Energy Dashboard 
+
+🛠️ Currently Working On: Japanese Learning Companion App
 
 
 ## 🌐 Socials:
@@ -22,7 +24,7 @@ Hi! I am **Kanon**, passionate in Computer Vision, Natural Language Processing, 
 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)      
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=plastic&logo=googlecolab&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=plastic&logo=googlecolab&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
 
