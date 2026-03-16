@@ -1,13 +1,15 @@
 # 💫 About Me:
-Hi! I am **Kanon**, passionate in Computer Vision, Natural Language Processing, and Big Data Analytics.
+Hi! I am **Kanon**, passionate in Data Science, ML, Deep Learning, and Object Detection
 
 🎓 Master's of Applied Computing Graduate In Taylor's University Malaysia
 
-🔍 Research Areas: Data Sciences, Data Visualization, Deep Learning, YOLO Object Detection, Vision-Language Models
+🔍 Research Areas: Data Sciences, Data Visualization, Deep Learning, Object Detection
 
-🚀 Projects: E-Waste Classification, RAG Frameworks, Renewable Energy Dashboard 
+🚀 Projects: E-Waste Classification, Renewable Energy Dashboard, RAG Frameworks
 
-🛠️ Currently Working On: Japanese Learning Companion App
+🛠️ Currently Working On: 
+* Safety Detection AI
+* Japanese Learning Companion Application
 
 
 ## 🌐 Socials:
