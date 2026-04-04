@@ -1,14 +1,15 @@
 # 💫 About Me:
-Hi! I am **Kanon**, passionate in Data Science, ML, Deep Learning, and Object Detection
+Hi! I am **Kanon**, passionate in Data Science, Machine Learning, Deep Learning & Vibe Coding
 
 🎓 Master's of Applied Computing Graduate In Taylor's University Malaysia
 
-🔍 Research Areas: Data Sciences, Data Visualization, Deep Learning, Object Detection
+🔍 Research Areas: Data Sciences, Data Visualization, Deep Learning, Object Detection, Computer Vision
 
 🚀 Projects: E-Waste Classification, Renewable Energy Dashboard, RAG Frameworks
 
 🛠️ Currently Working On: 
 * Safety Detection AI
+* RAG Q&A
 * Japanese Learning Companion Application
 
 
