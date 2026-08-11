@@ -1,47 +1,73 @@
 # 💫 About Me:
-Hi! I am **Kanon**, passionate in Data Science, Machine Learning, Deep Learning & Vibe Coding
+Hi (こんにちは), I'm Kanon (かのん)
 
-🎓 Master's of Applied Computing Graduate In Taylor's University Malaysia
+I'm an Applied Computing graduate who enjoys building at the intersection of data science, machine learning, deep learning, and practical coding projects. My work mixes professional ML/data projects with hobby experiments around AI companions, RAG workflows, dashboards, and local-first tools.
 
-🔍 Research Areas: Data Sciences, Data Visualization, Deep Learning, Object Detection, Computer Vision
+## What I Work On
 
-🚀 Projects: E-Waste Classification, Renewable Energy Dashboard, RAG Frameworks
+- Data science and data visualization for turning raw information into usable insight
+- Machine learning and deep learning experiments, especially for computer vision and object detection
+- RAG and AI workflow prototypes for practical knowledge retrieval
+- Personal coding projects that help me learn by building real, inspectable tools
 
-🛠️ Currently Working On: 
-* Safety Detection AI
-* RAG Q&A
-* Japanese Learning Companion Application
+## Current Focus
 
+- Improving an E-Waste Handling Framework
+- Exploring RAG systems and AI companion ideas
+- Building small, useful apps with Python, notebooks, and web tools
+- Strengthening my software engineering workflow through hands-on projects
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chua-jingxuan-51a300173) 
+## Selected Projects
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+- **E-Waste Classification** - computer vision and classification experiments for e-waste handling.
+- **Renewable Energy Dashboard** - data visualization and dashboard work for renewable energy insights.
+- **RAG Frameworks** - retrieval-augmented generation experiments for structured knowledge access.
+- **AI Companion** - hobby exploration around interactive AI agents and companion-style interfaces.
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue)  ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) 
+## Connect
 
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/chua-jingxuan-51a300173)
+
+## Tech Stack
+
+**Languages and data**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=plastic&logo=scipy&logoColor=white)
+
+**Machine learning and computer vision**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=plastic&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white)
 ![Roboflow](https://raw.githubusercontent.com/roboflow-ai/notebooks/main/assets/badges/roboflow.svg)
 
+**Visualization and apps**
 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)      
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=plastic&logo=matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=plastic&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=plastic&logo=streamlit&logoColor=white)
 
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=plastic&logo=googlecolab&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=plastic&logo=jupyter&logoColor=white)
+**Frontend and web**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=plastic&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=plastic&logo=vite&logoColor=white)
 
+**Workflow**
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Kanon14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Kanon14&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanon14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kanon14&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kanon14&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Kanon14&icon=8&color=7)](https://visitcount.itsvg.in)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=plastic&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=plastic&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=plastic&logo=gitlab&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=plastic&logo=anaconda&logoColor=white)
