@@ -16,6 +16,7 @@ I'm an Applied Computing graduate who enjoys building at the intersection of dat
 - Exploring RAG systems and AI companion ideas
 - Building small, useful apps with Python, notebooks, and web tools
 - Strengthening my software engineering workflow through hands-on projects
+- Learning cybersecurity fundamentals, with a focus on practical security awareness, tooling, and hands-on labs
 
 ## Selected Projects
 
