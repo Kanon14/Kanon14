@@ -1,29 +1,26 @@
-# 💫 About Me:
+# 💫 About Me: 📡
 Hi (こんにちは), I'm Kanon (かのん)
 
-I'm an Applied Computing graduate who enjoys building at the intersection of data science, machine learning, deep learning, and practical coding projects. My work mixes professional ML/data projects with hobby experiments around AI companions, RAG workflows, dashboards, and local-first tools.
+I'm an **AI Specialist** who enjoys building at the intersection of data science, machine learning, deep learning, and practical coding projects. My work mixes professional ML/data projects with hobby experiments around AI companions, RAG workflows, dashboards, and local-first tools.
 
 ## What I Work On
 
 - Data science and data visualization for turning raw information into usable insight
 - Machine learning and deep learning experiments, especially for computer vision and object detection
 - RAG and AI workflow prototypes for practical knowledge retrieval
-- Personal coding projects that help me learn by building real, inspectable tools
 
-## Current Focus
+## My Current Focus
 
 - Improving an E-Waste Handling Framework
-- Exploring RAG systems and AI companion ideas
-- Building small, useful apps with Python, notebooks, and web tools
-- Strengthening my software engineering workflow through hands-on projects
+- Improving an AI Solution Agent Team Framework
+- Experimenting PCB defects detection
+- Exploring AI companion ideas
 - Learning cybersecurity fundamentals, with a focus on practical security awareness, tooling, and hands-on labs
 
 ## Selected Projects
 
 - **E-Waste Classification** - computer vision and classification experiments for e-waste handling.
 - **Renewable Energy Dashboard** - data visualization and dashboard work for renewable energy insights.
-- **RAG Frameworks** - retrieval-augmented generation experiments for structured knowledge access.
-- **AI Companion** - hobby exploration around interactive AI agents and companion-style interfaces.
 
 ## Connect
 
